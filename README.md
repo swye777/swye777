@@ -6,7 +6,7 @@
     </td>
     <td>
                              
-<strong style="font-size: 45px;">𝕾𝕰𝕮𝖀𝕽𝕴𝕿𝖄 𝕽𝕰𝕾𝕰𝕬𝕽𝕮𝕳𝕰𝕽</strong>  
+<strong style="font-size: 45px;">𝑺𝑬𝑪𝑼𝑹𝑰𝑻𝒀 𝑹𝑬𝑺𝑬𝑨𝑹𝑪𝑯𝑬𝑹</strong>  
 - red teamer <br>
 - i just try hacking <br>
 - I do for fun: Valorant/Manga/hacking <br>
