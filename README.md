@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.pinimg.com/564x/4f/f0/be/4ff0be5f668a9d238b3833b78b5f7fa2.jpg" alt="IMG_1094" width="800" height="450" />
+      <img src="https://i.pinimg.com/564x/83/26/63/832663e46708366b861d8242ba5bc4cd.jpg" alt="IMG_1094" width="800" height="450" />
     </td>
     <td>
                              
@@ -10,7 +10,7 @@
 - red teamer <br>
 - i just try hacking <br>
 - I do for fun: Valorant/Manga/hacking <br>
-- twitter : https://twitter.com/swye777 <br>
+- Twitter/X : https://twitter.com/swye777 <br>
     </td>
   </tr>
 </table>
