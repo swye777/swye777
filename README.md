@@ -7,7 +7,7 @@
     <td>
                              
 <strong style="font-size: 45px;">𝑺𝑬𝑪𝑼𝑹𝑰𝑻𝒀 𝑹𝑬𝑺𝑬𝑨𝑹𝑪𝑯𝑬𝑹</strong>  
-- red teamer <br>
+- red team <br>
 - i just try hacking <br>
 - I do for fun: Valorant/Manga/hacking <br>
 - Twitter/X : https://twitter.com/swye777 <br>
