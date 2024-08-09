@@ -6,11 +6,11 @@
     </td>
     <td>
                              
-<strong style="font-size: 45px;">𝑺𝑬𝑪𝑼𝑹𝑰𝑻𝒀 𝑹𝑬𝑺𝑬𝑨𝑹𝑪𝑯𝑬𝑹</strong>  
+<strong style="font-size: 45px;">y</strong>  
 - PT/BR
 - Red team <br>
 - I just try hacking <br>
-- I do for fun: Valorant/Manga/hacking <br>
+-Valorant/Manga/hacking <br>
 - Twitter : https://twitter.com/swye777 <br>
     </td>
   </tr>
