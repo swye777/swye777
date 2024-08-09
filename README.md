@@ -11,7 +11,7 @@
 - Red team <br>
 - I just try hacking <br>
 -Valorant/Manga/hacking <br>
-- Twitter : https://twitter.com/swye777 <br>
+- Twitter : https://twitter.com/gabryelsw <br>
     </td>
   </tr>
 </table>
